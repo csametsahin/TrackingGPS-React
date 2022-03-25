@@ -1,0 +1,12 @@
+.pdf-box{
+    border: 2px solid black;
+    margin:10px 30px;
+
+}
+.inputtext{
+    margin: auto 500px;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}

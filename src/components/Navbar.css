@@ -1,0 +1,39 @@
+.navbar-container{
+    overflow: hidden;
+    background-color:black;
+
+}
+
+.navbar-container ul li{
+     position: relative;
+     display: inline;
+     list-style: none;
+     padding: 5px;
+     cursor: pointer;
+     color: white;
+     border: 1px ridge rgba(255,255,255,0.5) ;
+     border-radius: 5px;
+     margin: 5px;
+     float:left;
+    
+}
+.navbar-container ul li:hover{
+    box-shadow: 1px 2px 2px rgba(255,255,255,0.33);
+}
+.nav{
+    position: relative;
+    display: inline;
+    list-style: none;
+    padding: 5px;
+    cursor: pointer;
+    color: white;
+    border: 1px ridge rgba(255,255,255,0.5) ;
+    border-radius: 5px;
+    margin: 5px;
+    float:left;
+    text-decoration: none;
+}
+.nav:hover{
+    box-shadow: 1px 2px 2px rgba(255,255,255,0.33);
+}
+
